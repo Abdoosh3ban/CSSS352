@@ -1,5 +1,0 @@
-Program
-  Declaration: int x
-  Statement:
-    Assign to: x
-      Const: 10
